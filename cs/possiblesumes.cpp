@@ -1,4 +1,4 @@
-
+#include <vector>
 int solution(vector<int> coins, vector<int> quantity) {
      int n = coins.size();
     std::unordered_set<int> distinctSums;
